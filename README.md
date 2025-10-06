@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Alexandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandr-garbuzov&theme=neon)](https://github.com/alexandr-garbuzov)
+[![Alexandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandr-garbuzov&theme=neon&hide_border=true)](https://github.com/alexandr-garbuzov)
 
 <!---
 alexandr-garbuzov/alexandr-garbuzov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
